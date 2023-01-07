@@ -18,7 +18,7 @@ pipeline {
     }
     stage ('Monitor') {
       steps {
-        sh 'echo "Monitoring applications..."'
+        sh 'echo "Monitoring applicationss..."'
       }
     }
   }
